@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "description": "zh_ms软体中文语言包"
+  },
+  "language": {
+    "zh_ms": {
+      "name": "软体中文",
+      "region": "Microsoft",
+      "bidirectional": false
+    }
+  }
+}
